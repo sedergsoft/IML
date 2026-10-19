@@ -1,8 +1,4 @@
-"""
-Laboratorio 1, variante 1-13: Regression outliers and influential points.
-Instalación: pip install -r requirements.txt
-Ejecución: python solve_variant_13.py
-"""
+
 from pathlib import Path
 import numpy as np
 import pandas as pd
